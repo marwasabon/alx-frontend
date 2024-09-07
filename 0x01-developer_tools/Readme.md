@@ -1,1 +1,2 @@
-# 0x01. Developer tools  
+# 0x01-developer_tools
+these is mostly screens and css
